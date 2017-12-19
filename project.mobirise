@@ -309,7 +309,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Get an opportunity to star in your own adventure- choose between 3 adventures. <br>All you have to do is your job.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-danger\" href=\"index.html#tabs3-1\" data-toolbar=\"-mbrBtnMove\">I'm Ready</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-danger\" href=\"index.html#accordion1-8\" data-toolbar=\"-mbrBtnMove\">I'm Ready</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/rawpixel-com-247358-2000x1413.jpg",
@@ -326,7 +326,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Michelin Star Surprise",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"index.html#tabs3-1\" data-toolbar=\"-mbrBtnMove\">I'm Ready</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"index.html#accordion1-8\" data-toolbar=\"-mbrBtnMove\">I'm Ready</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/sawyer-bengtson-348083-1-2000x3000.jpg",
@@ -343,10 +343,10 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Get ready to fly a jet- on your own",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"index.html#tabs3-1\" data-toolbar=\"-mbrBtnMove\">I'm Ready</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"index.html#accordion1-8\" data-toolbar=\"-mbrBtnMove\">I'm Ready</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sawyer-bengtson-348083-1-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hans-vivek-223133-2000x1329.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -356,11 +356,11 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Thrill Seeker",
+                "title": "Spa Adventure",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Get ready to fly a jet- on your own",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"index.html#tabs3-1\" data-toolbar=\"-mbrBtnMove\">I'm Ready</a> "
+                "text": "Pamper yourself at the Peninsula Spa",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"index.html#accordion1-8\" data-toolbar=\"-mbrBtnMove\">I'm Ready</a> "
               }
             ]
           },
