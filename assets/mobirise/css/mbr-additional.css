@@ -1600,65 +1600,43 @@ body {
 .cid-qEgMmf1fWk .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
-.cid-qEgMSTnCch {
+.cid-qEgZOxOOhL {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #f9f9f9;
+  position: relative;
 }
-.cid-qEgMSTnCch .mbr-section-text {
-  color: #767676;
-  text-align: left;
+.cid-qEgZOxOOhL .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
 }
-.cid-qEgMSTnCch .mbr-section-subtitle {
-  color: #767676;
+.cid-qEgZOxOOhL .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
 }
-.cid-qEgMSTnCch .tabcont {
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-qEgMSTnCch .mbr-iconfont {
-  font-size: 48px;
-}
-.cid-qEgMSTnCch .card-img {
-  margin-bottom: 1.5rem;
-}
-.cid-qEgMSTnCch .tab-content-row {
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-qEgMSTnCch .tab-content {
-  margin-top: 3rem;
-  width: 100%;
-}
-.cid-qEgMSTnCch .nav-tabs {
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  border-bottom: none;
-}
-.cid-qEgMSTnCch .nav-tabs .nav-link {
-  box-sizing: border-box;
-  color: #767676;
+.cid-qEgZOxOOhL .card .card-header a.panel-title {
+  margin-bottom: 0;
   font-style: normal;
   font-weight: 500;
-  border-radius: 3px;
-  padding: 1rem 3rem;
-  margin: 0.4rem .8rem !important;
-  transition: color .3s;
-  border: 2px solid #767676;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
 }
-.cid-qEgMSTnCch .nav-tabs .nav-link:hover {
-  background: #149dcc;
+.cid-qEgZOxOOhL .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
 }
-.cid-qEgMSTnCch .nav-tabs .nav-link.active {
-  color: #ffffff;
-  font-style: normal;
-  border: 2px solid #149dcc;
-  background: #149dcc;
+.cid-qEgZOxOOhL .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
 }
-.cid-qEgMSTnCch .nav-tabs .nav-link.active:hover {
-  border: 2px solid #149dcc;
+.cid-qEgZOxOOhL .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-qEgZOxOOhL .card .panel-body {
+  color: #767676;
 }
 .cid-qEgORUyTG0 {
   padding-top: 90px;
@@ -1749,6 +1727,7 @@ body {
 }
 .cid-qEgORUyTG0 .mbr-timeline-title {
   text-align: left;
+  color: #ff3366;
 }
 .cid-qEgPwXXalr {
   padding-top: 90px;
